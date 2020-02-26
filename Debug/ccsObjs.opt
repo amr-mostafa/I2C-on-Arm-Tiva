@@ -1,0 +1,1 @@
+"./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "./appl/lab_02_i2c.obj" "./config/SysCtr_cfg.obj" "./config/i2c_lcfg.obj" "./config/nvic_lcfg.obj" "./config/port_lcfg.obj" "./mcal/SysCtr/SysCtr.obj" "./mcal/dio/dio.obj" "./mcal/i2c/i2c.obj" "./mcal/nvic/nvic.obj" "./mcal/port_driver/port.obj" "../tm4c123gh6pm.cmd" -llibc.a 
